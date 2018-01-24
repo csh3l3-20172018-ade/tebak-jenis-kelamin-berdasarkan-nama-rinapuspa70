@@ -42,3 +42,6 @@ elif genperempuan>genlaki:
     print("perempuan")
 else: print("tidak diketahui")
 print("genlaki= ",genlaki,"genperempuan= ",genperempuan)
+
+
+#kesimpulan = dari percobaan nama yang telah dicoba nama yang paling banyak muncul adalah perempuan
